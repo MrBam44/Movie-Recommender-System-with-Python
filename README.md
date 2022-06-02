@@ -1,0 +1,2 @@
+# Movie-Recommender-System-with-Python
+Welcome to the code notebook for Recommender Systems with Python. In this project we will develop basic recommendation systems using Python and pandas.  In this notebook, we will focus on providing a basic recommendation system by suggesting items that are most similar to a particular item, in this case, movies. It just tells you what movies/items are most similar to your movie choice.
